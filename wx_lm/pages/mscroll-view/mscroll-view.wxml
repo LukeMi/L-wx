@@ -1,0 +1,10 @@
+<!--pages/mscroll-view/mscroll-view.wxml-->
+<scroll-view class='mscroll-view' overflow-x:hidden scroll-y="true" bindscroll="mScroll" >
+
+<view  class='view_common1' />
+<view  class='view_common2' />
+<view  class='view_common3' />
+<view  class='view_common4' />
+<view  class='view_common5' />
+
+</scroll-view>
