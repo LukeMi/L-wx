@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/web-view/web-view",
     "pages/table/table",
     "pages/indexed/indexed",
     "pages/accordion/accordion",
@@ -31,10 +32,15 @@
     "pages/lock/lock"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#000",
+    "navigationBarBackgroundColor": "#1E90FF",
+    "navigationBarTextStyle": "dark",
     "navigationBarTitleText": "LukeMi的小程序",
-    "navigationBarTextStyle": "light",
-    "enablePullDownRefresh": true
+    "navigationStyle": "default",
+    "backgroundColor": "#f3f3f3",
+    "backgroundTextStyle": "dark",
+    "backgroundColorTop": "#f3f3f3",
+    "backgroundColorBottom": "#f3f3f3",
+    "enablePullDownRefresh": false,
+    "onReachBottomDistance": 50
   }
 }

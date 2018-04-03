@@ -83,6 +83,9 @@ var homeMenu = [
   }, {
     'title': 'input（输入框）',
     'url': '../../pages/input/input'
+  }, {
+    'title': 'web-view（浏览器h5页面）',
+    'url': '../../pages/web-view/web-view'
   }
 ]
 module.exports = {

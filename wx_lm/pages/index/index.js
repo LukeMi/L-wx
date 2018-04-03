@@ -6,6 +6,15 @@ Page({
     menu: menu.homeMenu
   },
   onLoad: function (options) {
-    
+
   },
+
+  onPullDownRefresh: function () {
+    wx.stopPullDownRefresh();
+  },
+
+  onShareAppMessage() {
+
+  },
+
 })
