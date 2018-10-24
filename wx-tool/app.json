@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/widget/widget/widget",
+    "pages/widget/web-view/web-view",
+    "pages/widget/table/table",
+    "pages/widget/indexed/indexed",
+    "pages/widget/accordion/accordion",
+    "pages/widget/grid/grid",
+    "pages/widget/list/list",
+    "pages/widget/dtpicker/dtpicker",
+    "pages/widget/picker/picker",
+    "pages/widget/button/button",
+    "pages/widget/tabbar/tabbar",
+    "pages/widget/progress/progress",
+    "pages/widget/slider/slider",
+    "pages/widget/switch/switch",
+    "pages/widget/cardview/cardview",
+    "pages/widget/checkbox/checkbox",
+    "pages/widget/radio/radio",
+    "pages/widget/dialog/dialog",
+    "pages/widget/pull/pull",
+    "pages/widget/actionsheet/actionsheet",
+    "pages/widget/swiper/swiper",
+    "pages/widget/offcanvas/offcanvas",
+    "pages/widget/gallerytable/gallerytable",
+    "pages/widget/gallerylist/gallerylist",
+    "pages/widget/navbar/navbar",
+    "pages/widget/number/number",
+    "pages/widget/previewimage/previewimage",
+    "pages/widget/input/input",
+    "pages/widget/scroll-view/scroll-view",
+    "pages/widget/lock/lock",
+    "pages/widget/icon/icon",
+    "pages/widget/rich-text/rich-text",
+    "pages/widget/form/form",
+    "pages/widget/label/label",
+    "pages/widget/picker-view/picker-view",
+    "pages/widget/textarea/textarea",
+    "pages/widget/audio/audio",
+    "pages/widget/image/image",
+    "pages/widget/video/video",
+    "pages/widget/camera/camera",
+    "pages/mine/mine/mine",
+    "pages/more/more/more"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#1E90FF",
+    "navigationBarTextStyle": "dark",
+    "navigationBarTitleText": "LukeMi的小程序",
+    "navigationStyle": "default",
+    "backgroundColor": "#f3f3f3",
+    "backgroundTextStyle": "dark",
+    "backgroundColorTop": "#f3f3f3",
+    "backgroundColorBottom": "#f3f3f3",
+    "enablePullDownRefresh": false,
+    "onReachBottomDistance": 50
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/widget/widget/widget",
+        "text": "组件",
+        "iconPath": "res/images/widget/widget-normal.png",
+        "selectedIconPath": "res/images/widget/widget-select.png"
+      },
+      {
+        "pagePath": "pages/more/more/more",
+        "text": "更多",
+        "iconPath": "res/images/more/more-normal.png",
+        "selectedIconPath": "res/images/more/more-select.png"
+      },
+      {
+        "pagePath": "pages/mine/mine/mine",
+        "text": "我的",
+        "iconPath": "res/images/mine/mine-normal.png",
+        "selectedIconPath": "res/images/mine/mine-select.png"
+      }
+    ],
+    "color": "#8a8a8a",
+    "selectedColor": "#1C86EE",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "light",
+    "position": "bottom"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  
+    "navigationBarBackgroundColor": "#1E90FF",
+    "navigationBarTextStyle": "light",
+    "navigationBarTitleText": "微信组件",
+    "backgroundColor": "#f3f3f3",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+ 
+}

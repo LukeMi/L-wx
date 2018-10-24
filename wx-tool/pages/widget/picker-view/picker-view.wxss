@@ -1,0 +1,5 @@
+/* pages/picker-view/picker-view.wxss */
+.intro {
+  margin: 30px;
+  text-align: center;
+}

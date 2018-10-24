@@ -1,6 +1,0 @@
-<!--pages/index/index.wxml-->
-<import src="../../template/list.wxml"/>
-
-<view class="tui-content" style='padding-right:0;'>
-  <template wx:for="{{menu}}" is="list" data="{{item}}"></template>
-</view>
