@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.93",
 	"appid": "wx5fce926fb12a1fe9",
-	"projectname": "wx%E6%92%A9%E4%B9%88",
+	"projectname": "wx-tool",
 	"condition": {
 		"search": {
 			"current": -1,
