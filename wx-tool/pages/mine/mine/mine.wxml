@@ -1,2 +1,9 @@
 <!--pages/mine/mine.wxml-->
-<text>pages/mine/mine.wxml</text>
+<view class='container'>
+  <view>
+    <text>haH</text>
+  </view>
+  <view>
+    <text>pages/mine/mine.wxml</text>
+  </view>
+</view>

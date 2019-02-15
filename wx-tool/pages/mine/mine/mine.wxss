@@ -1,1 +1,6 @@
 /* pages/mine/mine.wxss */
+.container{
+  display: flex; 
+  vertical-align: middle;
+  text-align: center;   
+}

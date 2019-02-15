@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/mine/mine/mine",
     "pages/widget/widget/widget",
     "pages/widget/web-view/web-view",
     "pages/widget/table/table",
@@ -40,7 +41,7 @@
     "pages/widget/image/image",
     "pages/widget/video/video",
     "pages/widget/camera/camera",
-    "pages/mine/mine/mine",
+  
     "pages/more/more/more"
   ],
   "window": {
